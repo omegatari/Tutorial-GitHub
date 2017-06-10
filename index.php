@@ -1,9 +1,10 @@
 <!doctype html>
 <html lang="en">
 <head>
-    <title>Demo</title>
+	<title>Demo</title>
 </head>
 <body>
+	<p></p>
 <?php
 
 ?>
